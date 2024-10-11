@@ -1,0 +1,20 @@
+//variables//
+steep time
+tea
+morning phrases
+midday phrases
+evening phrases
+//////////////
+if time of day is morning (2am - 11am)
+    steep time = 3-5
+    tea = black
+
+    pick a random morning poem out of data set
+
+if time of day is midday (11am - 5pm)
+    steep time = 2-4
+    tea = green
+
+if time of day is evening (5pm - 2am)
+    steep time = 1-3
+    tea = herbal
